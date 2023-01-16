@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"A-10 Thunderbolt II",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Ef2000b typhoon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/BENDOIL/Ajijiasadel/Airplane%20Fighter/Ef2000b%20typhoon/Ef2000b%20typhoon.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/BENDOIL/Ajijiasadel/Airplane%20Fighter/Ef2000b%20typhoon/Ef2000b%20typhoon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"F 14",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F%2014/F%2014.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F%2014/F%2014.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"F16 Fighting Falcon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"F22 Raptor",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F22%20Raptor/F22%20Raptor.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Airplane%20Fighter/F22%20Raptor/F22%20Raptor.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}

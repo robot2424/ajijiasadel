@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Basic Weapon Pack V2",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Basic%20Weapon%20Pack%20V2/Basic%20Weapon%20Pack%20V2.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Basic%20Weapon%20Pack%20V2/Basic%20Weapon%20Pack%20V2.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"combat mech hunter​",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/combat%20mech%20hunter%E2%80%8B/combat%20mech%20hunter.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/combat%20mech%20hunter%E2%80%8B/combat%20mech%20hunter.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Cyborg Hunter",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Cyborg%20Hunter/Cyborg%20Hunter.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Cyborg%20Hunter/Cyborg%20Hunter.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Double-barreled shotgun",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Double-barreled%20shotgun/Double-barreled%20shotgun.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Double-barreled%20shotgun/Double-barreled%20shotgun.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Evil Hunter NPS",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Evil%20Hunter%20NPS/Evil%20Hunter%20NPS.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Hunter/Evil%20Hunter%20NPS/Evil%20Hunter%20NPS.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}

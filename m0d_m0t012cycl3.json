@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"BMW G 650 GS",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/BMW%20G%20650%20GS/BMW%20G%20650%20GS.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/BMW%20G%20650%20GS/BMW%20G%20650%20GS.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"CBR400F​",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/CBR400F%E2%80%8B/CBR400F.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/CBR400F%E2%80%8B/CBR400F.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Enduro motorcycle​",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Enduro%20motorcycle%E2%80%8B/Enduro%20motorcycle.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Enduro%20motorcycle%E2%80%8B/Enduro%20motorcycle.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Motobikes​",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Motobikes%E2%80%8B/Motobikes.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Motobikes%E2%80%8B/Motobikes.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Motorcycle SK200​",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Motorcycle%20SK200%E2%80%8B/Motorcycle%20SK200.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Motorcycle/Motorcycle%20SK200%E2%80%8B/Motorcycle%20SK200.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Batman  V Superman",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Batman%20%20V%20Superman/Batman%20%20V%20Superman.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Batman%20%20V%20Superman/Batman%20%20V%20Superman.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Black Thunder",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Black%20Thunder/Black%20Thunder.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Black%20Thunder/Black%20Thunder.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Captain America",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Captain%20America/Captain%20America.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Captain%20America/Captain%20America.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Comics Juggernaut",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Comics%20Juggernaut/Comics%20Juggernaut.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Comics%20Juggernaut/Comics%20Juggernaut.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Deadpool Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Deadpool%20Mod/Deadpool%20Mod.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Superhero/Deadpool%20Mod/Deadpool%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"An Assassin For Hire",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/An%20Assassin%20For%20Hire/An%20Assassin%20For%20Hire.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/An%20Assassin%20For%20Hire/An%20Assassin%20For%20Hire.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Avrolon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Avrolon/Avrolon.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Avrolon/Avrolon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Cold Swords",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Cold%20Swords/Cold%20Swords.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Cold%20Swords/Cold%20Swords.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"DMC Dante",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/DMC%20Dante/DMC%20Dante.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/DMC%20Dante/DMC%20Dante.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Gats Swords",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Gats%20Swords/Gats%20Swords.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Sword/Gats%20Swords/Gats%20Swords.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"EdamimiPack V2.0",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Epic Plant Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Evil Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Evil%20Wubbox/Evil%20Wubbox.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Evil%20Wubbox/Evil%20Wubbox.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"My Singing Monsters X Melon Playground",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Wubbox/Wubbox.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Wubbox/Wubbox.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"Wubboxes",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Wubboxes/Wubboxes.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Ajijiasadel/Wubbox/Wubboxes/Wubboxes.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    }
+  ]
+}
